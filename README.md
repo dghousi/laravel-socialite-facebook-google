@@ -1,1 +1,1 @@
-# laravel-socialite-facebook-google
+# laravel-socialite-facebook-google-github
